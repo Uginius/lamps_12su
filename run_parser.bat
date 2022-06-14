@@ -1,0 +1,1 @@
+C:\work\python_projects\lamps_12su\venv\Scripts\python.exe C:/work/python_projects/lamps_12su/main.py
